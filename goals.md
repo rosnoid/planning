@@ -1,3 +1,4 @@
+
 # 🐕 Layer 1: What's Already Built Into the Dog (The "Easy Start")
 
 For simple following tasks, the Go2 has a built-in feature called ISS (Intelligent Side Follow) . With just a few button presses, the robot will lock onto a person and follow them .
